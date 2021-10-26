@@ -2,7 +2,7 @@ package Day6.Assignment;
 
 import java.util.Scanner;
 
-class average {
+class Average {
     static void printAvg(float n1, float n2, float n3) {
         System.out.println("Average: "+ (n1+n2+n3)/3);
     }
@@ -17,7 +17,7 @@ public class Q3 {
         n2 = scan.nextFloat();
         n3 = scan.nextFloat();
         scan.close();
-        average.printAvg(n1, n2, n3);
+        Average.printAvg(n1, n2, n3);
     }
 }
 
