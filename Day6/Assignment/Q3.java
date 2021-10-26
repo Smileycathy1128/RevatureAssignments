@@ -21,6 +21,8 @@ public class Q3 {
     }
 }
 
-// Q3: Print the average of three numbers entered by user
-//     by creating a class named 'Average' 
-//     and having a method to calculate and print the average.
+/*
+Q3: Print the average of three numbers entered by user
+    by creating a class named 'Average' 
+    and having a method to calculate and print the average.
+ */
